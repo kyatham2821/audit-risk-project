@@ -1,14 +1,8 @@
-# audit-risk-project
-Financial risk  detection system that uses machine learning,  network analysis and statistical modelling to  identify audit risks across hundreds of real  public companies.
-
-# Audit Risk Intelligence System
+# Audit Risk Project
 
 A machine learning project that analyses financial 
-statements from 500+ real public companies to 
+statements from 720+ real public companies to 
 automatically detect fraud risk and financial anomalies.
-
-Built as part of my MSc in Data & Computational 
-Science at University College Dublin.
 
 ---
 
@@ -71,14 +65,14 @@ cash flow statements from 500+ public companies.
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 Currently in development — building week by week.
 
 | Stage | Status |
 |-------|--------|
-| Data Pipeline |  In Progress |
-| Fraud Risk Scores |  Coming Soon |
+| Data Pipeline |  completed |
+| Fraud Risk Scores | Inprogress |
 | Anomaly Detection |  Coming Soon |
 | Risk Clustering |  Coming Soon |
 | Predictive Model |  Coming Soon |
@@ -91,4 +85,4 @@ Currently in development — building week by week.
 
 Prathibha Kyatham
 MSc Data & Computational Science — UCD
-GPA: 3.21 | Second Class Honours Grade 1
+Second Class Honours Grade 1
