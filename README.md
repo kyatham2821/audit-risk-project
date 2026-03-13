@@ -65,22 +65,6 @@ cash flow statements from 500+ public companies.
 
 ---
 
-## Project Status
-
-Currently in development — building week by week.
-
-| Stage | Status |
-|-------|--------|
-| Data Pipeline |  completed |
-| Fraud Risk Scores | Inprogress |
-| Anomaly Detection |  Coming Soon |
-| Risk Clustering |  Coming Soon |
-| Predictive Model |  Coming Soon |
-| Network Graph | Coming Soon |
-| Dashboard | Coming Soon |
-
----
-
 ##  About Me
 
 Prathibha Kyatham
